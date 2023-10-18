@@ -1,0 +1,13 @@
+title: 音乐之声 [中央人民广播电台音乐之声] [中央人民广播电台文艺调频] [中央人民广播电台第三套节目] [MusicRadio音乐之声] [CNR MusicRadio] [CNR-3]
+description: 中国大陆首个当代流行电台，该电台以喜爱流行音乐的受众为目标服务群，以播出流行音乐为主。音乐之声目前覆盖全国包括港澳在内的60多座城市。
+homepage: http://www.cnr.cn/
+schedule: https://zh.wikipedia.org/wiki/中央人民广播电台音乐之声#节目时间表（2020年4月27日起执行）
+logo: https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191224/1577155745280.png
+source-url: https://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+source-type: hls
+location: CN-BJ
+language: chi
+timezone: Asia/Shanghai
+note: 其独立官网 musicradio.com.cn 已被取消，并入 cnr.cn
+Suggested ID: radio-Yin-Yue-Zhi-Sheng
+submitted: yes
