@@ -11,3 +11,20 @@ timezone: Asia/Shanghai
 note: 
 Suggested ID: radio-
 submitted: no # is submitted to IA
+
+# === /元数据模板示例 (example): ===
+
+title: 中国之声 [中央人民广播电台中国之声] [The Voice of China] [CNR-1] #（第一个标题是主标题，之后 [] 里面的标题是备用标题/别名）
+description: 中央广播电视总台央广中国之声，简称中国之声。是中华人民共和国发展最早、影响力最大的广播频率之一。 它的前身“延安新华广播电台”于1940年12月30日在延安开播。 #（一段简短的描述，可从官网或其它处抄）
+homepage: http://china.cnr.cn #（官网）
+schedule: https://zh.wikipedia.org/wiki/中央人民广播电台中国之声#节目编排 #（节目编排表，优先 Wikipedia，其次官网，官网也没有则说明）
+logo: https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20210425/1619317448858.jpg #（高清晰度优先，正方形优先）
+source-url: https://ngcdn002.cnr.cn/live/zgzs/index.m3u8  #（串流URL）
+source-type: hls #（hls, HTTP, RTMP 中三选一。 .m3u8 选 hls, .mp3 直链选 HTTP）
+location: CN-BJ #（ISO_3166-2 定义的位置代码。不是电台的位置，而是创作和生产内容的地方，一般是广播电视台总部。）
+language: chi #（MARC 语言代码，中文无论简繁保持默认即可。）
+timezone: Asia/Shanghai #（时区）
+note: 啦啦啦啦啊 #（可选项。备注一些信息，，比如找不到编排表、有多个 source-url 可用，logo 暂时没有找到高清的等等。胆子大也可以留下昵称）
+Suggested ID: radio-Zhong-Guo-Zhi-Sheng #（建议 IA 采用什么样的 ID 格式。我们推荐以 radio- 开头，然后全部拼音用 - 连字符分割，首位大小，遇到地名则转为用现代的连字拼音表示法。比如陕西是 Shaanxi、四川是 Sichuan，北京是 Beijing。如：四川成都音乐之声 radio-Sichuan-Chengdu-Yin-Yue-Zhi-Sheng）
+
+# === 元数据模板示例/ ===
