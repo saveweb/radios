@@ -1,0 +1,13 @@
+title: 神州之声 [中央人民广播电台神州之声] [CNR Easy Radio]
+description: 中央人民广播电台神州之声是中央人民广播电台第六套节目。1982年10月1日，中央人民广播电台对台湾广播第二套节目开播，2003年12月29日改为中央人民广播电台神州之声。主打闽南语和客家语节目。
+homepage: http://www.hellotw.com
+schedule: https://zh.wikipedia.org/wiki/中央人民广播电台神州之声#主要节目
+logo: https://ytmedia.radio.cn/CCYT%2F202306%2F12%2F18%2F22NcNJxAjbe3NgbLCNZfH6fWW2q6VhCo2W2023061218376.jpg
+source-url: https://ngcdn006.cnr.cn/live/szzs/index.m3u8
+source-type: hls
+location: CN-BJ
+language: chi; nan (ISO 639-3); hak (ISO 639-3)
+timezone: Asia/Shanghai
+note: nan (ISO 639-3) 和 hak (ISO 639-3) 是方言，在 MARC 中没有被定义。
+Suggested ID: radio-Shen-Zhou-Zhi-Sheng
+submitted: yes
