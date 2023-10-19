@@ -5,7 +5,7 @@ schedule: https://zh.wikipedia.org/wiki/中央人民广播电台音乐之声#节
 logo: https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191224/1577155745280.png
 source-url: https://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 source-type: hls
-location: CN-BJ
+location: CN; CN-BJ
 language: chi
 timezone: Asia/Shanghai
 note: 其独立官网 musicradio.com.cn 已被取消，并入 cnr.cn

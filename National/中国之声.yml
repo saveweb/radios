@@ -5,7 +5,7 @@ schedule: https://zh.wikipedia.org/wiki/中央人民广播电台中国之声#节
 logo: https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20210425/1619317448858.jpg
 source-url: https://ngcdn002.cnr.cn/live/zgzs/index.m3u8
 source-type: hls
-location: CN-BJ
+location: CN; CN-BJ
 language: chi
 timezone: Asia/Shanghai
 note: 

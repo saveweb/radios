@@ -5,7 +5,7 @@ schedule:
 logo: 
 source-url: 
 source-type: hls
-location: CN-BJ
+location: CN; CN-BJ
 language: chi
 timezone: Asia/Shanghai
 note: 
@@ -21,7 +21,7 @@ schedule: https://zh.wikipedia.org/wiki/中央人民广播电台中国之声#节
 logo: https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20210425/1619317448858.jpg #（高清晰度优先，正方形优先）
 source-url: https://ngcdn002.cnr.cn/live/zgzs/index.m3u8  #（串流URL）
 source-type: hls #（hls, HTTP, RTMP 中三选一。 .m3u8 选 hls, .mp3 直链选 HTTP）
-location: CN-BJ #（ISO_3166-2 定义的位置代码。不是电台的位置，而是创作和生产内容的地方，一般是广播电视台总部。）
+location: CN; CN-BJ #（ISO_3166-2 定义的位置代码。不是电台的位置，而是创作和生产内容的地方，一般是广播电视台总部。）
 language: chi #（MARC 语言代码，中文无论简繁保持默认即可。）
 timezone: Asia/Shanghai #（时区）
 note: 啦啦啦啦啊 #（可选项。备注一些信息，，比如找不到编排表、有多个 source-url 可用，logo 暂时没有找到高清的等等。胆子大也可以留下昵称）
