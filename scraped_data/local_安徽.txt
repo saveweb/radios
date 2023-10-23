@@ -1,0 +1,9 @@
+516	安徽新闻广播	22	http://satellitepull.cnr.cn/live/wxahxxgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170518/1495093715603.jpg	null
+517	安徽经济广播	22	http://satellitepull.cnr.cn/live/wxahjjgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571930098.png	null
+518	安徽音乐广播	22	http://satellitepull.cnr.cn/live/wxahyygb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170518/1495094189766.jpg	null
+519	安徽生活广播	22	http://satellitepull.cnr.cn/live/wxahshgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170518/1495094649791.jpg	null
+520	安徽交通广播	22	http://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170518/1495094034111.png	null
+521	安徽农村广播	22	http://satellitepull.cnr.cn/live/wxahncgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170518/1495094495020.jpg	null
+522	安徽小说评书广播	22	http://satellitepull.cnr.cn/live/wxahxspsgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170518/1495095335659.jpg	null
+523	安徽戏曲广播	22	http://satellitepull.cnr.cn/live/wxahxqgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571934058.png	null
+524	安徽旅游广播	22	http://satellitepull.cnr.cn/live/wxahlygb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170518/1495095127231.jpg	null

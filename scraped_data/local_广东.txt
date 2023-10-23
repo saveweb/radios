@@ -1,0 +1,12 @@
+285	广东新闻广播	22	http://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8	https://cnvod.cnr.cn/audio2016/default/2014/10/13/1413193427271.jpg	null
+286	广东股市广播	22	http://satellitepull.cnr.cn/live/wxgdgsgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499071879479.jpg	null
+287	广东音乐之声	22	http://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8	https://cnvod.cnr.cn/audio2016/default/2014/10/13/1413193130198.jpg	null
+288	广东文体广播	22	http://satellitepull.cnr.cn/live/wxgdwtgb/playlist.m3u8	https://cnvod.cnr.cn/audio2016/default/2014/10/13/1413193319423.jpg	null
+289	广东城市之声	22	http://satellitepull.cnr.cn/live/wxgdcszs/playlist.m3u8	https://cnvod.cnr.cn/audio2016/default/2014/10/13/1413193105787.jpg	null
+290	广东南粤之声	22	http://satellitepull.cnr.cn/live/wxnyzs/playlist.m3u8	https://cnvod.cnr.cn/audio2016/default/2014/10/13/1413193155420.jpg	null
+291	广东珠江经济台	22	http://satellitepull.cnr.cn/live/wxgdzjjjt/playlist.m3u8	https://cnvod.cnr.cn/audio2016/default/2014/10/13/1413189658282.jpg	null
+292	广东南方生活广播	22	http://satellitepull.cnr.cn/live/wxgdnfshgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499071910071.jpg	null
+293	广东羊城交通广播	22	http://satellitepull.cnr.cn/live/wxgdycjtt/playlist.m3u8	https://cnvod.cnr.cn/audio2016/default/2014/10/13/1413189768306.jpg	null
+983	深圳交通频率	22	http://satellitepull.cnr.cn/live/wxszjjpl/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570052333.jpg	null
+984	深圳私家车广播	22	http://satellitepull.cnr.cn/live/wxszsjcgb/playlist.m3u8	https://cnvod.cnr.cn/audio2016/ondemand/media/1100/20170509/1494319187883.jpg	null
+985	深圳飞扬971	22	http://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570048006.jpg	null

@@ -1,0 +1,6 @@
+276	重庆音乐广播	22	http://satellitepull.cnr.cn/live/wxcqyygb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576568963961.png	null
+277	重庆文艺广播	22	http://satellitepull.cnr.cn/live/wxcqwygb/playlist.m3u8	https://cnvod.cnr.cn/audio2016/default/2015/8/4/1438654204934.jpg	null
+278	重庆经济广播	22	http://satellitepull.cnr.cn/live/wxcqjjgb/playlist.m3u8	https://cnvod.cnr.cn/audio2016/default/2015/8/4/1438654432073.jpg	null
+279	重庆新闻广播	22	http://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8	https://cnvod.cnr.cn/audio2016/default/2015/8/4/1438654836930.jpg	null
+280	重庆都市广播	22	http://satellitepull.cnr.cn/live/wxcqdsgb/playlist.m3u8	https://cnvod.cnr.cn/audio2016/default/2015/8/4/1438654924708.jpg	null
+281	重庆交通广播	22	http://satellitepull.cnr.cn/live/wxcqjtgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576568959038.png	null

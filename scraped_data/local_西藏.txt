@@ -1,0 +1,5 @@
+1035	西藏藏语广播	22	http://satellitepull.cnr.cn/live/wxxzzygb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576572400638.png	null
+1036	西藏汉语广播	22	http://satellitepull.cnr.cn/live/wxxzhygb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576572400638.png	null
+1037	西藏对外交通广播	22	http://satellitepull.cnr.cn/live/wxxzdwjtgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576572400638.png	null
+1038	西藏藏语康巴方言	22	http://satellitepull.cnr.cn/live/wxxzzykbfy/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576572400638.png	null
+1039	西藏都市生活广播	22	http://satellitepull.cnr.cn/live/wxxzdsshgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576572404852.png	null

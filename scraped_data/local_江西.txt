@@ -1,0 +1,6 @@
+254	江西新闻广播	22	http://satellitepull.cnr.cn/live/wx32jiangxxwgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499072543804.jpg	null
+256	江西交通广播	22	https://cnlive.cnr.cn/hls/jiangxijtgb.m3u8	https://cnvod.cnr.cn/audio2016/default/2014/8/18/1408354161968.jpg	null
+257	江西音乐广播	22	http://satellitepull.cnr.cn/live/wx32jiangxyygb/playlist.m3u8	https://cnvod.cnr.cn/audio2016/default/2014/8/18/1408354248154.jpg	null
+258	江西都市广播	22	http://satellitepull.cnr.cn/live/wx32jiangxdsgb/playlist.m3u8	https://cnvod.cnr.cn/audio2016/default/2014/8/18/1408354382712.jpg	null
+260	江西民生广播	22	http://satellitepull.cnr.cn/live/wx32jiangxmsgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499072519779.jpg	null
+261	江西农村广播	22	http://satellitepull.cnr.cn/live/wx32jiangxncgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570121463.png	null

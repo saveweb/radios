@@ -1,0 +1,6 @@
+78	吉林新闻综合广播	22	http://satellitepull.cnr.cn/live/wxjlxwzhgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570804977.jpg	null
+80	吉林乡村广播	22	http://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8	https://cnvod.cnr.cn/audio2016/default/2014/6/11/1402464870965.jpg	null
+84	吉林交通广播	22	http://satellitepull.cnr.cn/live/wxjljtgb/playlist.m3u8	https://cnvod.cnr.cn/audio2016/default/2014/6/11/1402465040674.jpg	null
+86	吉林经济广播	22	http://satellitepull.cnr.cn/live/wxjljjgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570799959.jpg	null
+487	延边新闻广播	22	http://satellitepull.cnr.cn/live/wxybxwgb/playlist.m3u8	https://cnvod.cnr.cn/audio2016/default/2015/8/10/1439187246765.jpg	null
+488	延边文艺生活广播	22	http://satellitepull.cnr.cn/live/wxybwyshgb/playlist.m3u8	https://cnvod.cnr.cn/audio2016/default/2015/8/10/1439187505528.jpg	null

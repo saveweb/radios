@@ -1,0 +1,6 @@
+266	贵州综合广播	22	http://satellitepull.cnr.cn/live/wx32gzwxwzhgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576569520301.png	null
+267	贵州经济广播	22	http://satellitepull.cnr.cn/live/wx32gzjjgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499072029654.jpg	null
+268	贵州音乐广播	22	http://satellitepull.cnr.cn/live/wx32gzyygb/playlist.m3u8	https://cnvod.cnr.cn/audio2016/default/2014/9/11/1410425167683.jpg	null
+271	贵州旅游广播	22	http://satellitepull.cnr.cn/live/wx32gzlygb/playlist.m3u8	https://cnvod.cnr.cn/audio2016/default/2014/9/11/1410425336743.jpg	null
+272	贵州故事广播	22	http://satellitepull.cnr.cn/live/wx32gzgsgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576569515532.jpg	null
+1072	贵州都市广播	22	http://satellitepull.cnr.cn/live/wx32gzqcgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576569510334.png	null

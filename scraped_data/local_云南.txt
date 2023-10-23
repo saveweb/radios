@@ -1,0 +1,6 @@
+701	云南交通广播	22	http://satellitepull.cnr.cn/live/wxynjtgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571808321.png	null
+702	云南音乐广播	22	http://satellitepull.cnr.cn/live/wxynyygb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571816185.png	null
+703	云南新闻广播	22	http://satellitepull.cnr.cn/live/wxynxwgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170905/1504575501746.jpg	null
+704	云南经济广播	22	http://satellitepull.cnr.cn/live/wxynjjgb/playlist.m3u8	https://cnvod.cnr.cn/audio2016/default/2015/9/17/1442458798622.jpg	null
+705	云南FM99香格里拉之声	22	http://satellitepull.cnr.cn/live/wxxgllzs/playlist.m3u8	https://cnvod.cnr.cn/audio2016/ondemand/media/1100/20170509/1494311890143.jpg	null
+706	云南民族广播	22	http://satellitepull.cnr.cn/live/wxynmzgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170905/1504575417551.jpg	null

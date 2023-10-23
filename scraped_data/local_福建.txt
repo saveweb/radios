@@ -1,0 +1,6 @@
+671	福建交通广播	22	http://satellitepull.cnr.cn/live/wx32fjdnjtgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576569908293.png	null
+672	福建经济电台961	22	http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8	https://cnvod.cnr.cn/audio2016/default/2015/8/26/1440573927563.jpg	null
+1002	福建新闻广播	22	http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170614/1497426277879.jpg	null
+1003	福建都市广播	22	http://satellitepull.cnr.cn/live/wx32fjdndsgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576569904366.png	null
+1004	福建音乐广播	22	http://satellitepull.cnr.cn/live/wx32fjdnyygb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576569912292.jpg	null
+1005	福建东南广播	22	http://satellitepull.cnr.cn/live/wx32fjdngb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576569899629.png	null

@@ -1,0 +1,10 @@
+498	新疆新闻广播	22	http://satellitepull.cnr.cn/live/wxxjxwgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20210304/1614822898474.jpg	null
+500	新疆交通广播	22	http://satellitepull.cnr.cn/live/wxxjjtgb/playlist.m3u8	https://cnvod.cnr.cn/audio2016/default/2014/12/18/1418890326592.jpg	null
+502	新疆私家车广播	22	http://satellitepull.cnr.cn/live/wxxjsjcgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576572218290.png	null
+505	新疆维语综合广播	22	http://satellitepull.cnr.cn/live/wxxjwyzhgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576572218290.png	null
+506	新疆维吾尔语交通文艺广播	22	http://satellitepull.cnr.cn/live/wxxjwyjtwygb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20210304/1614823003337.jpg	null
+507	新疆蒙语广播	22	http://satellitepull.cnr.cn/live/wxxjmygb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576572226874.png	null
+508	新疆哈语广播	22	http://satellitepull.cnr.cn/live/wxxjhygb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576572218290.png	null
+509	新疆柯尔克孜语广播	22	http://satellitepull.cnr.cn/live/wxxjkygb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576572222994.png	null
+512	新疆兵团综合广播	22	http://satellitepull.cnr.cn/live/wxbtzs/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20200806/1596680600543.jpg	null
+1033	新疆绿色广播	22	http://satellitepull.cnr.cn/live/wxxjlsgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576572218290.png	null

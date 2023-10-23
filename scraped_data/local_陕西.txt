@@ -1,0 +1,8 @@
+528	陕西音乐广播	22	http://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170519/1495182519032.jpg	null
+529	陕西戏曲广播	22	http://satellitepull.cnr.cn/live/wxsxxxqgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571155135.png	null
+532	陕西交通广播	22	http://satellitepull.cnr.cn/live/wxsxxjtgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170519/1495182338791.png	null
+533	陕西农村广播	22	http://satellitepull.cnr.cn/live/wxsxxncgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571151392.png	null
+535	陕西青春广播	22	http://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571142855.png	null
+538	陕西都市广播	22	http://satellitepull.cnr.cn/live/wxsxxdsgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571142855.png	null
+988	陕西新闻广播	22	http://satellitepull.cnr.cn/live/wxsxxxwgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170519/1495182167838.png	null
+989	陕西经济广播	22	http://satellitepull.cnr.cn/live/wxsxxjjgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571147472.png	null

@@ -1,0 +1,9 @@
+467	四川经济广播	22	http://satellitepull.cnr.cn/live/wxscjjgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576569714117.png	null
+468	四川文艺广播	22	http://satellitepull.cnr.cn/live/wxscwygb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499072893877.jpg	null
+469	四川岷江音乐频率	22	http://satellitepull.cnr.cn/live/wxscmjyyt/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499072880191.jpg	null
+470	四川新闻频率	22	http://satellitepull.cnr.cn/live/wxsclyshgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20210202/1612236026984.png	null
+471	四川交通广播	22	http://satellitepull.cnr.cn/live/wxscjtgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499072818138.jpg	null
+472	四川城市之音	22	http://satellitepull.cnr.cn/live/wxsccszs/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499072804268.jpg	null
+473	四川民族频率	22	http://satellitepull.cnr.cn/live/wxscmzgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499072866179.jpg	null
+474	四川综合广播	22	http://satellitepull.cnr.cn/live/wxsczhgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576569718201.png	null
+476	四川私家车925	22	http://satellitepull.cnr.cn/live/wxsc925/playlist.m3u8	https://cnvod.cnr.cn/audio2016/default/2015/7/23/1437643585850.jpg	null

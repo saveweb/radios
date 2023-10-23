@@ -1,0 +1,4 @@
+310	宁夏新闻广播	22	http://satellitepull.cnr.cn/live/wxnxxwgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499072673183.jpg	null
+311	宁夏经济广播	22	https://cnlive.cnr.cn/hls/nxjjgb.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499072663686.jpg	null
+312	宁夏都市广播	22	https://cnlive.cnr.cn/hls/nxdsgb.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499072651855.jpg	null
+987	宁夏音乐广播	22	http://satellitepull.cnr.cn/live/wxnxyygb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499072685869.jpg	null

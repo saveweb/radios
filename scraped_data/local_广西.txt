@@ -1,0 +1,6 @@
+1013	广西人民广播	22	http://satellitepull.cnr.cn/live/wx32gxrmgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571608830.png	null
+1014	广西经济广播	22	http://satellitepull.cnr.cn/live/wx32gxjjgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571608830.png	null
+1015	广西教育生活广播	22	http://satellitepull.cnr.cn/live/wx32gbjyshgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571608830.png	null
+1016	广西文艺广播	22	http://satellitepull.cnr.cn/live/wx32gxwygb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571608830.png	null
+1017	广西交通广播	22	http://satellitepull.cnr.cn/live/wx32gxjtgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571612538.png	null
+1018	广西对外广播	22	http://satellitepull.cnr.cn/live/wx32gxdwgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576571608830.png	null

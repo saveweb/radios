@@ -1,0 +1,5 @@
+1028	辽宁综合广播	22	http://satellitepull.cnr.cn/live/wxlnzhgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170703/1499072617636.jpg	null
+1029	辽宁交通广播	22	http://satellitepull.cnr.cn/live/wxlnjtgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576569595967.png	null
+1030	辽宁经济广播	22	http://satellitepull.cnr.cn/live/wxlnjjtb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576569595967.png	null
+1031	辽宁乡村广播	22	http://satellitepull.cnr.cn/live/wxlnxcgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576569604733.png	null
+1032	辽宁文艺广播	22	http://satellitepull.cnr.cn/live/wxlnwygb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576569600372.png	null

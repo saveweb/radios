@@ -1,0 +1,8 @@
+626	湖北之声	22	http://satellitepull.cnr.cn/live/wx32hubzsgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20200204/1580802417286.jpg	null
+627	湖北妇女儿童广播	22	http://satellitepull.cnr.cn/live/wx32hubfnetgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570477811.png	null
+628	湖北资讯广播	22	http://satellitepull.cnr.cn/live/wx32hubzxgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570511847.png	null
+629	湖北交通广播	22	http://satellitepull.cnr.cn/live/wx32hubjtgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570485832.png	null
+630	湖北经典音乐	22	http://satellitepull.cnr.cn/live/wx32hubyygb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570490370.png	null
+632	湖北经济广播	22	http://satellitepull.cnr.cn/live/wx32hubjjgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570495126.png	null
+633	湖北生活广播	22	http://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570500687.png	null
+634	湖北农村广播	22	http://satellitepull.cnr.cn/live/wx32hubncgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570477811.png	null

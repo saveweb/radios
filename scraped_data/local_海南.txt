@@ -1,0 +1,3 @@
+694	海南音乐广播	22	http://satellitepull.cnr.cn/live/wxhainyygb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20220610/1654847814232.png	null
+695	海南交通广播	22	http://satellitepull.cnr.cn/live/wxhainjtgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20220610/1654848317039.png	null
+698	海南新闻广播	22	http://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8	https://cnvod.cnr.cn/audio2016/default/2015/9/15/1442302058442.jpg	null

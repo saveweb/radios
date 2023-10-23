@@ -1,0 +1,3 @@
+387	湖南新闻频道	22	http://satellitepull.cnr.cn/live/wx32hunxwgb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20170614/1497425171192.jpg	null
+392	湖南电台潇湘之声	22	http://satellitepull.cnr.cn/live/wx32hunyygb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191217/1576570410135.png	null
+1000	湖南年代音乐台	22	http://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20200413/1586764109369.jpg	null
