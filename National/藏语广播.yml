@@ -1,7 +1,7 @@
-title: 藏语广播
+title: 藏语广播 [中央广播电视总台藏语广播]
 description: 中央广播电视总台藏语广播为新闻综合频率，全部用藏语广播，其主要内容是传播国内外重大新闻，报道西藏和其他藏区的历史文化、社会发展和农牧民生活，为藏语听众提供生活和文化娱乐等方面的信息服务。
-homepage: 
-schedule: 
+homepage: http://www.tibetcnr.com
+schedule: https://zh.wikipedia.org/zh/中央人民广播电台藏语广播#节目表[3]
 logo: https://cnvod.cnr.cn/audio2016/default/2014/9/18/1411025710246.jpg
 source-url: https://ngcdn012.cnr.cn/live/zygb/index.m3u8
 source-type: hls
@@ -9,5 +9,5 @@ location: CN;
 language: chi
 timezone: Asia/Shanghai
 note: 
-Suggested ID: radio-
-submitted: no
+Suggested ID: radio-Zang-Yu-Guang-Bo
+submitted: yes
