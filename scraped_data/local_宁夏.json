@@ -80,17 +80,17 @@
               {
                 "bitstreamType":"",
                 "resolution":"H",
-                "url":"https://cnlive.cnr.cn/hls/nxjjgb.m3u8"
+                "url":"http://satellitepull.cnr.cn/live/wxnxjjgb/playlist.m3u8"
               },
               {
                 "bitstreamType":"",
                 "resolution":"M",
-                "url":"https://cnlive.cnr.cn/hls/nxjjgb.m3u8"
+                "url":"http://satellitepull.cnr.cn/live/wxnxjjgb/playlist.m3u8"
               },
               {
                 "bitstreamType":"",
                 "resolution":"L",
-                "url":"https://cnlive.cnr.cn/hls/nxjjgb.m3u8"
+                "url":"http://satellitepull.cnr.cn/live/wxnxjjgb/playlist.m3u8"
               }
             ],
             "other_info12":"",
@@ -132,17 +132,17 @@
               {
                 "bitstreamType":"",
                 "resolution":"H",
-                "url":"https://cnlive.cnr.cn/hls/nxdsgb.m3u8"
+                "url":"http://satellitepull.cnr.cn/live/wxnxdsgb/playlist.m3u8"
               },
               {
                 "bitstreamType":"",
                 "resolution":"M",
-                "url":"https://cnlive.cnr.cn/hls/nxdsgb.m3u8"
+                "url":"http://satellitepull.cnr.cn/live/wxnxdsgb/playlist.m3u8"
               },
               {
                 "bitstreamType":"",
                 "resolution":"L",
-                "url":"https://cnlive.cnr.cn/hls/nxdsgb.m3u8"
+                "url":"http://satellitepull.cnr.cn/live/wxnxdsgb/playlist.m3u8"
               }
             ],
             "other_info12":"",

@@ -80,17 +80,17 @@
               {
                 "bitstreamType":"",
                 "resolution":"H",
-                "url":"https://cnlive.cnr.cn/hls/jiangxijtgb.m3u8"
+                "url":"http://satellitepull.cnr.cn/live/wx32jiangxjtgb/playlist.m3u8"
               },
               {
                 "bitstreamType":"",
                 "resolution":"M",
-                "url":"https://cnlive.cnr.cn/hls/jiangxijtgb.m3u8"
+                "url":"http://satellitepull.cnr.cn/live/wx32jiangxjtgb/playlist.m3u8"
               },
               {
                 "bitstreamType":"",
                 "resolution":"L",
-                "url":"https://cnlive.cnr.cn/hls/jiangxijtgb.m3u8"
+                "url":"http://satellitepull.cnr.cn/live/wx32jiangxjtgb/playlist.m3u8"
               }
             ],
             "other_info12":"",

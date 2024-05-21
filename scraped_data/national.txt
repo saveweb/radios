@@ -15,8 +15,8 @@
 16	中国交通广播	22	https://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20221211/1670743148470.jpg	中国交通广播是由交通运输部和中央人民广播电台联合打造的国家级交通广播，中国交通广播按照“平时服务、突发应急”的原则进行建设，是国家应急广播体系的重要组成部分。
 11	中国乡村之声	22	https://ngcdn017.cnr.cn/live/xczs/index.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20210425/1619318057428.jpg	中央人民广播电台中国乡村之声为全国性对农公益广播。立足公益性，突出服务性，强化实用性，全天24小时播出谈话类、信息类、服务类和文娱类的广播节目。
 24	哈语广播	22	https://ngcdn025.cnr.cn/live/hygb/index.m3u8	https://cnvod.cnr.cn/audio2016/default/2014/12/29/1419837253068.jpg	中央广播电视总台哈萨克语广播，哈萨克语广播强化服务功能，节目影响不断扩大，深受哈萨克族听众的喜爱。
-1091	环球资讯广播	22	https://cnlive.cnr.cn/hls/huanqiuzixunguangbo.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20200306/1583464064428.jpg	null
-999	南海之声	22	https://cnlive.cnr.cn/hls/nanhaizhisheng.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20200528/1590662120265.jpg	null
-1088	轻松调频	22	http://sk.cri.cn/915.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191227/1577439525359.png	null
-996	HITFM国际流行音乐	22	https://cnlive.cnr.cn/hls/HITFM.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191227/1577439531060.png	null
-1120	英语资讯广播 CGTN Radio	22	https://cnlive.cnr.cn/hls/yyzxgb.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20211222/1640137536123.jpg	null
+1091	环球资讯广播	22	https://sk.cri.cn/905.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20200306/1583464064428.jpg	null
+999	南海之声	22	https://sk.cri.cn/nhzs.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20200528/1590662120265.jpg	null
+1088	轻松调频	22	https://sk.cri.cn/915.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191227/1577439525359.png	null
+996	HITFM国际流行音乐	22	https://sk.cri.cn/887.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191227/1577439531060.png	null
+1120	英语资讯广播 CGTN Radio	22	https://sk.cri.cn/am846.m3u8	https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20211222/1640137536123.jpg	null
