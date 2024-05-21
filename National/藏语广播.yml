@@ -5,7 +5,7 @@ schedule: https://zh.wikipedia.org/zh/中央人民广播电台藏语广播#节�
 logo: https://cnvod.cnr.cn/audio2016/default/2014/9/18/1411025710246.jpg
 source-url: https://ngcdn012.cnr.cn/live/zygb/index.m3u8
 source-type: hls
-location: CN;
+location: CN; CN-BJ
 language: chi
 timezone: Asia/Shanghai
 note: 

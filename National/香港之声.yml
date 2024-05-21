@@ -5,7 +5,7 @@ schedule:
 logo: https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20230612/1686554792374.png
 source-url: https://ngcdn008.cnr.cn/live/xgzs/index.m3u8
 source-type: hls
-location: CN;
+location: CN; CN-BJ
 language: chi
 timezone: Asia/Shanghai
 note: 
