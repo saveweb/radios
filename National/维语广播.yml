@@ -1,13 +1,13 @@
-title: 维语广播
+title: 维语广播 [中央人民广播电台维吾尔语广播]
 description: 中央广播电视总台维语广播，以报道国内外重大新闻，反映新疆各族群众生活、现代化建设成就，传播新疆各民族历史文化，提供生活信息、文化娱乐服务为主要内容，是新疆各族群众了解各类信息的重要窗口。
-homepage: 
-schedule: 
+homepage: http://www.uycnr.com
+schedule: http://www.uycnr.com/clggw/201909/t20190919_1362890.html
 logo: https://cnvod.cnr.cn/audio2016/default/2014/9/18/1411025697139.jpg
 source-url: https://ngcdn013.cnr.cn/live/wygb/index.m3u8
 source-type: hls
-location: CN;
-language: chi
+location: CN; CN-BJ
+language: uig
 timezone: Asia/Shanghai
 note: 
-Suggested ID: radio-
-submitted: no
+Suggested ID: radio-Wei-Yu-Guang-Bo
+submitted: yes
