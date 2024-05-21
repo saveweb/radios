@@ -1,13 +1,13 @@
-title: 香港之声
-description: 香港之声是中央人民广播电台开办的第十四套广播节目，是服务香港听众的数字广播。香港之声全天24小时不间断播音，节目内容包括新闻、文化艺术、财经和生活服务四个方面。
-homepage: 
-schedule: 
+title: 香港之声 [中央人民广播电台香港之声] [香港电台香港之声台] [RTHK CNR/HK] [RTHK Radio 6]
+description: 香港电台香港之声台（英语：RTHK CNR/HK），前称香港电台第六台（英语：RTHK Radio 6），是香港电台旗下的一个广播频道，于1989年12月3日启播，为香港电台其中一个转播频道。目前全日二十四小时转播中央人民广播电台香港之声。中央人民广播电台香港之声，是中央人民广播电台的第十四套节目，是中央人民广播电台专门为香港数码声音广播而开设，由香港电台负责转播，使用普通话、粤语全天24小时面向香港听众广播(该频率在开播后经过多次改版，目前此频率除了《流行乐歌单（粤语版）》、《“港”好普通话》为独播节目以外，大部分节目为并机或重播中央广播电视总台粤港澳大湾区之声的节目。 )
+homepage: http://www.cnr.cn
+schedule: http://www.radio.cn/pc-portal/erji/radioStation_xg.html
 logo: https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20230612/1686554792374.png
 source-url: https://ngcdn008.cnr.cn/live/xgzs/index.m3u8
 source-type: hls
 location: CN; CN-BJ
-language: chi
+language: chi; yue (ISO 639-3); hak (ISO 639-3); czhu (ISO 639-6)
 timezone: Asia/Shanghai
 note: 
-Suggested ID: radio-
-submitted: no
+Suggested ID: radio-Xiang-Gang-Zhi-Sheng
+submitted: yes
