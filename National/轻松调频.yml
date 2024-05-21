@@ -1,13 +1,13 @@
-title: 轻松调频
-description: 
-homepage: 
-schedule: 
+title: 轻松调频 [中国国际广播电台轻松调频] [Easy FM] [CRI EZFM]
+description: Easy FM，频率呼号为中国国际广播电台轻松调频、CRI EZFM，简称轻松调频或EZFM，是中国国际广播电台（CRI）旗下的一家播出新闻资讯、欧美及华语音乐、跨文化交流和学知栏目等的中英双语广播电台，全天24小时播出。该频道前身为国际台于1986年10月25日在北京开播的英语综合广播。
+homepage: http://ezfm.cri.cn
+schedule: https://zh.wikipedia.org/zh-cn/Easy_FM#节目表
 logo: https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191227/1577439525359.png
 source-url: http://sk.cri.cn/915.m3u8
 source-type: hls
-location: CN;
-language: chi
+location: CN; CN-BJ
+language: eng; chi
 timezone: Asia/Shanghai
 note: 
-Suggested ID: radio-
-submitted: no
+Suggested ID: radio-CRI-EZFM
+submitted: yes
