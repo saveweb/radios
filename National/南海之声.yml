@@ -1,13 +1,13 @@
-title: 南海之声
-description: 
-homepage: 
-schedule: 
+title: 南海之声 [中国国际广播电台南海之声] [Voice of the South China Sea]
+description: 南海之声于2013年4月9日开播，是中国首个为南海海域及周边国家和地区服务的多语种广播。节目通过调频及短波覆盖菲律宾、越南、印尼等南海周边国家、海南岛以及南海海域，其中调频广播以汉语普通话和英語播出，短波广播以汉语普通话、英语、菲律宾语、印尼语、越南语、马来语播出。
+homepage: https://vscs.cri.cn
+schedule: https://vscs.cri.cn/schedule
 logo: https://cnvod.cnr.cn/audio2017/ondemand/media/1100/20200528/1590662120265.jpg
 source-url: https://cnlive.cnr.cn/hls/nanhaizhisheng.m3u8
 source-type: hls
-location: CN;
-language: chi
+location: CN; CN-BJ
+language: chi; eng
 timezone: Asia/Shanghai
 note: 
-Suggested ID: radio-
-submitted: no
+Suggested ID: radio-Nan-Hai-Zhi-Sheng
+submitted: yes
